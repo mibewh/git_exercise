@@ -47,4 +47,12 @@
 		"age": "20",
 		"github_handle": "dpzmick"
 	},
+	{
+		"name": "Michael Whitman",
+		"netid": "mwhitma2",
+		"grade": "freshman",
+		"major": "Computer Science",
+		"age": "18",
+		"github_handle": "mibewh"
+	},
 ]
